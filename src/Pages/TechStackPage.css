@@ -1,0 +1,34 @@
+.tech-banner {
+    height: 120px;
+    width: 100%;
+    color: white;
+    background-color: 	#142d4c; ;
+    text-align: center;
+  }
+
+  .tech-banner-items h1 {
+    text-align: center; /* Center the text horizontally */
+    margin-top: 20px; /* Adjust the margin-top as needed for vertical centering */
+  }
+
+  .tech-banner-items ul {
+    list-style: none;
+
+    display: flex;
+    justify-content: space-between;
+    grid-column: 4/ span 6;
+  }
+  
+  .tech-banner-items li {
+    text-align: center;
+    flex-basis: calc(33.33% - 100px); /* Adjust as needed */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0;
+  }
+  
+  .tech-banner-items li span {
+    margin-bottom: 5px;
+  }
+  
