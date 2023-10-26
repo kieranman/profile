@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.4cddfbb0.css",
-    "main.js": "/profile/static/js/main.c46b5242.js",
+    "main.css": "/profile/static/css/main.9605622d.css",
+    "main.js": "/profile/static/js/main.42873ea1.js",
     "static/media/GameTracker.PNG": "/profile/static/media/GameTracker.2a86f75832d2d06a605f.PNG",
     "static/media/MovieFinder.PNG": "/profile/static/media/MovieFinder.c46b58a2c3ecc3458b72.PNG",
     "static/media/PushupCounter.PNG": "/profile/static/media/PushupCounter.a62812a2952e469cd3bf.PNG",
     "static/media/background.jpg": "/profile/static/media/background.5d9686b18991716a6aa9.jpg",
+    "static/media/filmflix.PNG": "/profile/static/media/filmflix.3c78b594325baa772eef.PNG",
     "index.html": "/profile/index.html",
-    "main.4cddfbb0.css.map": "/profile/static/css/main.4cddfbb0.css.map",
-    "main.c46b5242.js.map": "/profile/static/js/main.c46b5242.js.map"
+    "main.9605622d.css.map": "/profile/static/css/main.9605622d.css.map",
+    "main.42873ea1.js.map": "/profile/static/js/main.42873ea1.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cddfbb0.css",
-    "static/js/main.c46b5242.js"
+    "static/css/main.9605622d.css",
+    "static/js/main.42873ea1.js"
   ]
 }
