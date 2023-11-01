@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.9605622d.css",
-    "main.js": "/profile/static/js/main.79582a83.js",
+    "main.css": "/profile/static/css/main.37749665.css",
+    "main.js": "/profile/static/js/main.a4e8390a.js",
     "static/media/GameTracker.PNG": "/profile/static/media/GameTracker.2a86f75832d2d06a605f.PNG",
     "static/media/MovieFinder.PNG": "/profile/static/media/MovieFinder.c46b58a2c3ecc3458b72.PNG",
     "static/media/PushupCounter.PNG": "/profile/static/media/PushupCounter.a62812a2952e469cd3bf.PNG",
+    "static/media/Microsoft.PNG": "/profile/static/media/Microsoft.7519a067b2b1b96fcffb.PNG",
     "static/media/background.jpg": "/profile/static/media/background.5d9686b18991716a6aa9.jpg",
     "static/media/filmflix.PNG": "/profile/static/media/filmflix.3c78b594325baa772eef.PNG",
     "index.html": "/profile/index.html",
-    "main.9605622d.css.map": "/profile/static/css/main.9605622d.css.map",
-    "main.79582a83.js.map": "/profile/static/js/main.79582a83.js.map"
+    "main.37749665.css.map": "/profile/static/css/main.37749665.css.map",
+    "main.a4e8390a.js.map": "/profile/static/js/main.a4e8390a.js.map"
   },
   "entrypoints": [
-    "static/css/main.9605622d.css",
-    "static/js/main.79582a83.js"
+    "static/css/main.37749665.css",
+    "static/js/main.a4e8390a.js"
   ]
 }
