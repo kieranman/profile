@@ -4,6 +4,7 @@ import GameTracker from "../Components/Images/GameTracker.PNG"
 import MovieFinder from "../Components/Images/MovieFinder.PNG"
 import PushupCounter from "../Components/Images/PushupCounter.PNG"
 import FilmFlix from "../Components/Images/filmflix.PNG"
+import Microsoft from "../Components/Images/Microsoft.PNG"
 export default function Projects(){
     const education = [
         {name:"Game Tracker" , grade:"Java | Spring Boot | ReactJS | MySQL | HTML CSS",
@@ -30,7 +31,10 @@ export default function Projects(){
         image:PushupCounter,
         link:"https://github.com/kieranman/PushupCounter"},
 
-
+        {name:"Microsoft Layout Clone" ,grade:"HTML/CSS",
+        overview:"An accurate recreation of the Microsoft web page. This project taught me how to utilise the different display properties and how they interact with each other",
+        image:Microsoft,
+        link:"https://kieranman.github.io/HTML-Microsoft-clone/"},
     ]
 
 

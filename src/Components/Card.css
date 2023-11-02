@@ -33,8 +33,6 @@
     width: 100%;
 }
 
-
-
 .descritpion{
     position: relative;
     top: 0;
@@ -51,10 +49,9 @@
     padding:5px;
     margin-top: 0;
 }
-
-
-
-
+.descritpion h5{
+    font-size: 17px;
+}
 
 /* Hide the scrollbar by default */
 .descritpion::-webkit-scrollbar {
@@ -77,8 +74,4 @@
   .movie-card:hover .descritpion::-webkit-scrollbar-thumb:hover {
     background: #555;
   }
-
-
-
-
 

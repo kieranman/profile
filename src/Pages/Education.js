@@ -12,7 +12,7 @@ export default function Education(){
         overview:"Computer Science (C) Maths (C) Biology (C)",
         image:"https://pyramidbuildersltd.co.uk/wp-content/uploads/2019/07/8o7L8VUFmrc6-1024x768.jpg",
         link:"https://sixthform.harrischobham.org.uk/"},
-        {name:"Kingsford Secondary School" , grade:"Ten A grades",
+        {name:"Kingsford Secondary School" , grade:"Twelve A-A* grades",
         overview:"Computer Science (A*) Maths (A) English Language (A) English Literature (A) Chemistry (A) Physics (A) Biology (A) Resistant Materials (A) "+
         "Geography (A) Mandarin (A) Philosophy And Ethics (B)",
         image:"https://www.formarchitecture.ltd.uk/wp-content/uploads/2018/02/Kingsford-School-Form_Artchitects-London__Essex-2-1024x683.jpg",
